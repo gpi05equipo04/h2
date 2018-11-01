@@ -1883,7 +1883,8 @@
               "color": "#adc966"
             },
             "DIV": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#adc966"
             }
           },
           "_name": "image2",
